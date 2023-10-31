@@ -8,4 +8,6 @@ public void giveInfo(name, age){
     System.out.println("this is great!");
     System.out.println("this is great!");
     System.out.println("this is great!");
+    System.out.println("this is ade!");
+    System.out.println("this is ade!");
 };
