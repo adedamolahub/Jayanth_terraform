@@ -11,4 +11,6 @@ public void giveInfo(name, age){
     System.out.println("this is ade!");
     System.out.println("this is ade!");
     System.out.println("this is lawal!");
+    System.out.println("this is adedamolalawal!");
+    
 };
