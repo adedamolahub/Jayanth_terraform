@@ -9,7 +9,7 @@ public void giveInfo(name, age){
     System.out.println("this is great!");
     System.out.println("this is great!");
     System.out.println("this is ade!");
-    System.out.println("this is ade!");
+    System.out.println("this is ade!");`
     System.out.println("this is lawal!");
     System.out.println("this is adedamolalawal!");
     System.out.println("this is for gitlab adedamolalawal!");
